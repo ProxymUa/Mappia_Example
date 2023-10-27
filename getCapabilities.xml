@@ -137,7 +137,7 @@
 				<Title>korsun2110</Title>
 				<Abstract>GH:korsun2110 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸10</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="33.171672854679535" miny="46.74320931987137" maxx="33.25575564524059" maxy="46.77722029525444"></LatLonBoundingBox>
